@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">personas</string>
+    <string name="NOMBRE">NOMBRE</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Bailar">Bailar</string>
+    <string name="Leer">Leer</string>
+    <string name="Programar">Programar</string>
+    <string name="Registrar">Registrar</string>
+    <string name="Borrar">Borrar</string>
+    <string name="nombre">nombre</string>
+    <string name="edad">edad</string>
+    <string name="pasatiempo">pasatiempo</string>
+</resources>
